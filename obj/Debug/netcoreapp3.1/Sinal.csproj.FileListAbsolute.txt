@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.exe
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.dll
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.pdb
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.dll
+C:\Users\Maria Luiza\Documents\Luiza\sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.pdb
